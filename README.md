@@ -21,3 +21,13 @@ Tools for MMO ArcheAge
 
     ![inputPrice.png](img%2FinputPrice.png)
 - Симуляция действий, результат которых имеет определенную вероятность.
+
+### Зависимости:
+- [Symphograph/authServer](https://github.com/symphograph/authServer)
+
+  Сервер авторизации для получения JWT
+
+
+- [Symphograph/Bicycle](https://github.com/symphograph/bicycle)
+
+  Библиотека с обширным набором классов для упрощения разработки
